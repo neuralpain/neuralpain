@@ -11,6 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ### I like the defaults just the way they are.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I0DGXRT)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neuralpain) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/neuralpain)
