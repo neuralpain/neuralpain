@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @neuralpain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi... I'm neuralpain 👁👁
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuralpain) [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]() [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
-<!---
-neuralpain/neuralpain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neuralpain&theme=vue)]()
 
-### I like the defaults just the way they are.
+### Technologies
+
+[![skills](https://skillicons.dev/icons?i=vscode,git,bash,html,css,js,ts,vue,md,py,nodejs,react&theme=dark)]()
