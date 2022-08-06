@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @neuralpain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### This is @neuralpain
 
-### I like the defaults just the way they are.
+- Designer
+- Programmer
+- Data science enthusiast
+
+```
+kali@kali:~$ neuralpain dev
+```
