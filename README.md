@@ -1,30 +1,35 @@
 <p align="center">
   <picture>
-    <source srcset="assets/images/neuralpain-dark.svg" media="(prefers-color-scheme: dark)" height="64px">
-    <img src="assets/images/neuralpain-light.svg" height="64px">
-  </picture><br><br> 
+    <source srcset="assets/images/neuralpain-dark.svg" media="(prefers-color-scheme: dark)" height="64px" alt="neuralpain logo dark">
+    <img src="assets/images/neuralpain-light.svg" height="64px" alt="neuralpain logo light">
+  </picture>
+  <br><br>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuralpain)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- Graphic Analyst and Forager
-- Keyboard typist
-- Data science enthusiast
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="badge">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="badge">
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="badge">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="badge">
+  <br><br>
+</p>
 
 ```
-kali@kali:~$ neuralpain dev
+$ neuralpain dev
 ```
 
+> **Warning**
+> sdf
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neuralpain&theme=vue)
+![neuralpain github stats](https://github-readme-activity-graph.cyclic.app/graph?username=neuralpain&theme=github-compact)
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneuralpain1212%2Fhit-counter)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
+</p>
 
-### Extra stuff you might enjoy
-1. [Documentation](./docs)
-2. [Archive](./archive) (meh...)
-3. [Open-Source Software List](./docs/OpenSourceSoftwareList.md)
-4. [Useful Repositories List](./docs/UsefulRepositories.md)
+> **Note**
+> Extra stuff you might enjoy
+> 1. [Documentation](./docs)
+> 2. [Archive](./archive) (meh...)
+> 3. [Open-Source Software List](./docs/OpenSourceSoftwareList.md)
+> 4. [Useful Repositories List](./docs/UsefulRepositories.md)
