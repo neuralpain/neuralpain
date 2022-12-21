@@ -1,17 +1,15 @@
 <p align="center">
   <picture>
-    <source srcset="assets/images/neuralpain-dark.svg" media="(prefers-color-scheme: dark)" height="64px" alt="neuralpain logo dark">
-    <img src="assets/images/neuralpain-light.svg" height="64px" alt="neuralpain logo light">
-  </picture>
-  <br>
+    <source srcset="https://user-images.githubusercontent.com/77242216/209022740-0a7c7217-b247-4d6d-98ed-c4aa7ce45701.svg" media="(prefers-color-scheme: dark)" height="64px" alt="neuralpain logo dark">
+    <img src="https://user-images.githubusercontent.com/77242216/209022557-dd9ebe9c-1be1-4d7d-a683-c8591a179600.svg" height="64px" alt="neuralpain logo light">
+  </picture><br>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="badge">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="badge">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="badge">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="badge">
-  <br><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="badge"><br>
 </p>
 
 ```
