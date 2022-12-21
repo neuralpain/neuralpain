@@ -24,10 +24,11 @@ $ neuralpain dev
   <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
 </p>
 
-> **Note**
->
+> **Note**  
 > Extra stuff you might enjoy
 > 1. [Documentation](./docs)
 > 2. [Archive](./archive) (meh...)
 > 3. [Open-Source Software List](./docs/OpenSourceSoftwareList.md)
 > 4. [Useful Repositories List](./docs/UsefulRepositories.md)
+
+> **Warning** There is no license provided for the `neuralpain/neuralpain` repository, however any licenses found in any subdirectories of this respoitory should be respected for the directory and its contents.
