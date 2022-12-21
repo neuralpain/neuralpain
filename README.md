@@ -18,9 +18,6 @@
 $ neuralpain dev
 ```
 
-> **Warning**
-> sdf
-
 ![neuralpain github stats](https://github-readme-activity-graph.cyclic.app/graph?username=neuralpain&theme=github-compact)
 
 <p align="center">
@@ -33,3 +30,9 @@ $ neuralpain dev
 > 2. [Archive](./archive) (meh...)
 > 3. [Open-Source Software List](./docs/OpenSourceSoftwareList.md)
 > 4. [Useful Repositories List](./docs/UsefulRepositories.md)
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
