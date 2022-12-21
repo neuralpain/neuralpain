@@ -25,6 +25,7 @@ $ neuralpain dev
 </p>
 
 > **Note**
+>
 > Extra stuff you might enjoy
 > 1. [Documentation](./docs)
 > 2. [Archive](./archive) (meh...)
