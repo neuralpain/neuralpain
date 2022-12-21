@@ -6,7 +6,7 @@
   <br><br>
 </p>
 
-<p align="center">
+<p align="center" pointer-events="none">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="badge">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="badge">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="badge">
@@ -31,9 +31,3 @@ $ neuralpain dev
 > 2. [Archive](./archive) (meh...)
 > 3. [Open-Source Software List](./docs/OpenSourceSoftwareList.md)
 > 4. [Useful Repositories List](./docs/UsefulRepositories.md)
-
-> **Note**
-> This is a note
-
-> **Warning**
-> This is a warning
