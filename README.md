@@ -3,7 +3,7 @@
     <source srcset="assets/images/neuralpain-dark.svg" media="(prefers-color-scheme: dark)" height="64px" alt="neuralpain logo dark">
     <img src="assets/images/neuralpain-light.svg" height="64px" alt="neuralpain logo light">
   </picture>
-  <br><br>
+  <br>
 </p>
 
 <p align="center">
