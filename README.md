@@ -18,6 +18,8 @@
 $ neuralpain dev
 ```
 
+> **Warning** While there is no license provided for this repository, any licenses found in any subdirectories of this respoitory should be respected for the specified directory and its contents.
+
 ![neuralpain github stats](https://github-readme-activity-graph.cyclic.app/graph?username=neuralpain&theme=github-compact)
 
 <!-- <p align="center">
@@ -30,5 +32,3 @@ $ neuralpain dev
 > 2. [Archive](./archive) (meh...)
 > 3. [Open-Source Software List](./docs/OpenSourceSoftwareList.md)
 > 4. [Useful Repositories List](./docs/UsefulRepositories.md)
-
-> **Warning** While there is no license provided for this repository, any licenses found in any subdirectories of this respoitory should be respected for the directory and its contents.
