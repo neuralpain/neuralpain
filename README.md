@@ -18,7 +18,7 @@ $ neuralpain dev
 
 > **Warning** While there is no license provided for this repository, any licenses found in any subdirectories of this respoitory should be respected for the specified directory and its contents.
 
-![neuralpain github stats](https://github-readme-activity-graph.cyclic.app/graph?username=neuralpain&theme=github-compact)
+![neuralpain github stats](https://github-readme-activity-graph.vercel.app/graph?username=neuralpain&theme=github-compact)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
