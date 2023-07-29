@@ -27,7 +27,7 @@ $ neuralpain dev
 
 > **Note**  
 > Extra stuff you might enjoy
-> 1. [Documentation](https://github.com/neuralpain/neuralpain/docs)
-> 2. [Archive](https://github.com/neuralpain/neuralpain/archive) (meh...)
-> 3. [Open-Source Software List](https://github.com/neuralpain/neuralpain/docs/OpenSourceSoftwareList.md)
-> 4. [Useful Repositories List](https://github.com/neuralpain/neuralpain/docs/UsefulRepositories.md)
+> 1. [Documentation](https://github.com/neuralpain/neuralpain/tree/main/docs)
+> 2. [Archive](https://github.com/neuralpain/neuralpain/tree/main/archive) (meh...)
+> 3. [Open-Source Software List](https://github.com/neuralpain/neuralpain/tree/main/docs/OpenSourceSoftwareList.md)
+> 4. [Useful Repositories List](https://github.com/neuralpain/neuralpain/tree/main/docs/UsefulRepositories.md)
