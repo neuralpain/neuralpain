@@ -27,7 +27,7 @@ $ neuralpain dev
 
 > **Note**  
 > Extra stuff you might enjoy
-> 1. [Documentation](./docs)
-> 2. [Archive](./archive) (meh...)
-> 3. [Open-Source Software List](./docs/OpenSourceSoftwareList.md)
-> 4. [Useful Repositories List](./docs/UsefulRepositories.md)
+> 1. [Documentation](docs)
+> 2. [Archive](archive) (meh...)
+> 3. [Open-Source Software List](docs/OpenSourceSoftwareList.md)
+> 4. [Useful Repositories List](docs/UsefulRepositories.md)
