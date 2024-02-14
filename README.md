@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source srcset="https://user-images.githubusercontent.com/77242216/209022740-0a7c7217-b247-4d6d-98ed-c4aa7ce45701.svg" media="(prefers-color-scheme: dark)" height="64px" alt="neuralpain logo dark">
-    <img src="https://user-images.githubusercontent.com/77242216/209022557-dd9ebe9c-1be1-4d7d-a683-c8591a179600.svg" height="64px" alt="neuralpain logo light">
-  </picture><br>
+    <source srcset="https://user-images.githubusercontent.com/77242216/209022557-dd9ebe9c-1be1-4d7d-a683-c8591a179600.svg" media="(prefers-color-scheme: light)" height="96px" alt="logo light">
+    <img src="https://user-images.githubusercontent.com/77242216/209022740-0a7c7217-b247-4d6d-98ed-c4aa7ce45701.svg" height="96px" alt="logo dark">
+  </picture>
 </p>
 
 <p align="center">
@@ -22,8 +22,7 @@ $ neuralpain dev
   <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
 </p> -->
 
-> [!TIP]
-> Extra stuff you might enjoy
-> 1. [Documentation](https://github.com/neuralpain/neuralpain/tree/main/docs)
-> 3. [Open-Source Software List](https://github.com/neuralpain/neuralpain/tree/main/docs/OpenSourceSoftwareList.md)
-> 4. [Useful Repositories List](https://github.com/neuralpain/neuralpain/tree/main/docs/UsefulRepositories.md)
+Extra stuff you might like
+1. [Documentation](https://github.com/neuralpain/neuralpain/tree/main/docs)
+2. [Open-Source Software List](https://github.com/neuralpain/neuralpain/tree/main/docs/OpenSourceSoftwareList.md)
+3. [Useful Repositories List](https://github.com/neuralpain/neuralpain/tree/main/docs/UsefulRepositories.md)
