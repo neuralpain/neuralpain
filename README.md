@@ -22,6 +22,15 @@ $ neuralpain dev
   <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
 </p> -->
 
+#### Downloads
+
+| repo | downloads |
+| --- | --- |
+| qbactivator | ![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg) |
+| kalipak | ![kalipak](https://img.shields.io/github/downloads/neuralpain/kalipak/total.svg) |
+| PowerCMD | ![PowerCMD](https://img.shields.io/github/downloads/neuralpain/PowerCMD/total.svg) |
+
+
 Extra stuff you might like
 1. [Documentation](https://github.com/neuralpain/neuralpain/tree/main/docs)
 2. [Open-Source Software List](https://github.com/neuralpain/neuralpain/tree/main/docs/OpenSourceSoftwareList.md)
