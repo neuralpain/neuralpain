@@ -30,8 +30,5 @@ $ neuralpain dev
 | kalipak | ![kalipak](https://img.shields.io/github/downloads/neuralpain/kalipak/total.svg) |
 | PowerCMD | ![PowerCMD](https://img.shields.io/github/downloads/neuralpain/PowerCMD/total.svg) |
 
-
-Extra stuff you might like
-1. [Documentation](https://github.com/neuralpain/neuralpain/tree/main/docs)
-2. [Open-Source Software List](https://github.com/neuralpain/neuralpain/tree/main/docs/OpenSourceSoftwareList.md)
-3. [Useful Repositories List](https://github.com/neuralpain/neuralpain/tree/main/docs/UsefulRepositories.md)
+> [!TIP]  
+> Check out the [wiki](https://github.com/neuralpain/neuralpain/wiki) for centralized information / blog thingy
