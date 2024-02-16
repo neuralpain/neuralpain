@@ -26,9 +26,9 @@ $ neuralpain dev
 
 | repo | downloads |
 | --- | --- |
-| qbactivator | ![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg) |
-| kalipak | ![kalipak](https://img.shields.io/github/downloads/neuralpain/kalipak/total.svg) |
-| PowerCMD | ![PowerCMD](https://img.shields.io/github/downloads/neuralpain/PowerCMD/total.svg) |
+| [qbactivator](https://github.com/neuralpain/qbactivator) | ![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg) |
+| [kalipak](https://github.com/neuralpain/kalipak) | ![kalipak](https://img.shields.io/github/downloads/neuralpain/kalipak/total.svg) |
+| [PowerCMD](https://github.com/neuralpain/PowerCMD) | ![PowerCMD](https://img.shields.io/github/downloads/neuralpain/PowerCMD/total.svg) |
 
 > [!TIP]  
 > Check out the [wiki](https://github.com/neuralpain/neuralpain/wiki) for centralized information / blog thingy
