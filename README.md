@@ -22,6 +22,15 @@ $ neuralpain dev
   <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
 </p> -->
 
+#### Requests
+
+I will take you up on specific scripting requests, i.e. bash, PowerShell. However, note the following:
+
+- don't expect them to be delivered quickly;
+- they will be open sourced;
+- you can ask for progress updates but don't blow up my chat;
+- the more complicated the request, the more time it will take
+
 #### Downloads
 
 | repo | downloads |
