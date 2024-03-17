@@ -24,7 +24,7 @@ $ neuralpain dev
 
 #### Requests
 
-I will take you up on specific scripting requests, i.e. bash, PowerShell. However, note the following:
+I will take you up on specific scripting requests, i.e. sh/bash, batch, PowerShell. However, note the following:
 
 - don't expect them to be delivered quickly;
 - they will be open sourced;
