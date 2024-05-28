@@ -24,21 +24,18 @@ $ neuralpain dev
 
 #### Requests
 
-I will take you up on specific scripting requests, i.e. sh/bash, batch, PowerShell. However, note the following:
-
-- don't expect them to be delivered quickly;
-- they will be open sourced;
-- you can ask for progress updates but don't blow up my chat;
-- the more complicated the request, the more time it will take
+I will take you up on scripting requests, i.e. sh/bash, batch, PowerShell. However, the more complicated the request, the more time will be needed to complete.
 
 #### Downloads
 
 | repo | downloads |
 | --- | --- |
 | [qbactivator](https://github.com/neuralpain/qbactivator) | [![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg)](https://github.com/neuralpain/qbactivator/releases/latest) |
-| [WinLangConfig](https://github.com/neuralpain/WinLangConfig) | [![WinLangConfig](https://img.shields.io/github/downloads/neuralpain/WinLangConfig/total.svg)](https://github.com/neuralpain/WinLangConfig/releases/latest) |
-| [PowerCMD](https://github.com/neuralpain/PowerCMD) | [![PowerCMD](https://img.shields.io/github/downloads/neuralpain/PowerCMD/total.svg)](https://github.com/neuralpain/PowerCMD/releases/latest) |
 | [oneclickwinrar](https://github.com/neuralpain/oneclickwinrar) | [![oneclickwinrar](https://img.shields.io/github/downloads/neuralpain/oneclickwinrar/total.svg)](https://github.com/neuralpain/oneclickwinrar/releases/latest) |
+| [PowerCMD](https://github.com/neuralpain/PowerCMD) | [![PowerCMD](https://img.shields.io/github/downloads/neuralpain/PowerCMD/total.svg)](https://github.com/neuralpain/PowerCMD/releases/latest) |
+<!--| [WinLangConfig](https://github.com/neuralpain/WinLangConfig) | [![WinLangConfig](https://img.shields.io/github/downloads/neuralpain/WinLangConfig/total.svg)](https://github.com/neuralpain/WinLangConfig/releases/latest) |-->
 
+<!--
 > [!TIP]  
 > Check out the [wiki](https://github.com/neuralpain/neuralpain/wiki) for centralized information / blog thingy
+-->
