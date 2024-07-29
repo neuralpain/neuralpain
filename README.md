@@ -22,11 +22,13 @@ $ neuralpain dev
   <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
 </p> -->
 
-#### Requests
+### What I do
 
-I will take you up on scripting requests, i.e. sh/bash, batch, PowerShell. However, the more complicated the request, the more time will be needed to complete.
+- Custom scripts. I will take you up on scripting requests, i.e. sh/bash, batch, PowerShell, etc.; whatever you need to improve your workflow.
+- Chinese to English translations.
+- Joke around and make people smile in my free time.
 
-#### Downloads
+### Downloads
 
 | repo | downloads |
 | --- | --- |
