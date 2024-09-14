@@ -32,7 +32,7 @@ I will take you up on scripting requests, i.e. sh/bash, batch, PowerShell. Howev
 | --- | --- |
 | [qbactivator](https://github.com/neuralpain/qbactivator) | [![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg)](https://github.com/neuralpain/qbactivator/releases/latest) |
 | [oneclickwinrar](https://github.com/neuralpain/oneclickwinrar) | [![oneclickwinrar](https://img.shields.io/github/downloads/neuralpain/oneclickwinrar/total.svg)](https://github.com/neuralpain/oneclickwinrar/releases/latest) |
-| [PowerCMD](https://github.com/neuralpain/PowerCMD) | [![PowerCMD](https://img.shields.io/github/downloads/neuralpain/PowerCMD/total.svg)](https://github.com/neuralpain/PowerCMD/releases/latest) |
+
 <!--| [WinLangConfig](https://github.com/neuralpain/WinLangConfig) | [![WinLangConfig](https://img.shields.io/github/downloads/neuralpain/WinLangConfig/total.svg)](https://github.com/neuralpain/WinLangConfig/releases/latest) |-->
 
 <!--
