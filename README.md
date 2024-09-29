@@ -22,16 +22,20 @@ $ neuralpain dev
   <img src="https://github-readme-stats.vercel.app/api?username=neuralpain&show_icons=true&theme=dark&include_all_commits=true" alt="neuralpain github stats">
 </p> -->
 
+<!--
 #### Requests
 
 I will take you up on scripting requests, i.e. sh/bash, batch, PowerShell. However, the more complicated the request, the more time will be needed to complete.
+-->
 
 #### Downloads
 
-| repo | downloads |
-| --- | --- |
-| [qbactivator](https://github.com/neuralpain/qbactivator) | [![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg)](https://github.com/neuralpain/qbactivator/releases/latest) |
-| [oneclickwinrar](https://github.com/neuralpain/oneclickwinrar) | [![oneclickwinrar](https://img.shields.io/github/downloads/neuralpain/oneclickwinrar/total.svg)](https://github.com/neuralpain/oneclickwinrar/releases/latest) |
+| repo | downloads | views (badges temporarily unavailable) |
+| --- | --- | --- |
+| [qbactivator](https://github.com/neuralpain/qbactivator) | [![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg)](https://github.com/neuralpain/qbactivator/releases/latest) | Over 50k |
+| [oneclickwinrar](https://github.com/neuralpain/oneclickwinrar) | [![oneclickwinrar](https://img.shields.io/github/downloads/neuralpain/oneclickwinrar/total.svg)](https://github.com/neuralpain/oneclickwinrar/releases/latest) | Over 400 |
+
+<!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fneuralpain%2Foneclickwinrar&countColor=%23ba68c8&labelStyle=lower&readonly=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fneuralpain%2Foneclickwinrar)-->
 
 <!--| [WinLangConfig](https://github.com/neuralpain/WinLangConfig) | [![WinLangConfig](https://img.shields.io/github/downloads/neuralpain/WinLangConfig/total.svg)](https://github.com/neuralpain/WinLangConfig/releases/latest) |-->
 
