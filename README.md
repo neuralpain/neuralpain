@@ -30,10 +30,10 @@ I will take you up on scripting requests, i.e. sh/bash, batch, PowerShell. Howev
 
 #### Downloads
 
-| repo | downloads | views (badges temporarily unavailable) |
-| --- | --- | --- |
-| [qbactivator](https://github.com/neuralpain/qbactivator) | [![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg)](https://github.com/neuralpain/qbactivator/releases/latest) | Over 50k |
-| [oneclickwinrar](https://github.com/neuralpain/oneclickwinrar) | [![oneclickwinrar](https://img.shields.io/github/downloads/neuralpain/oneclickwinrar/total.svg)](https://github.com/neuralpain/oneclickwinrar/releases/latest) | Over 400 |
+| repo | downloads|
+| --- | --- |
+| [qbactivator](https://github.com/neuralpain/qbactivator) | [![qbactivator](https://img.shields.io/github/downloads/neuralpain/qbactivator/total.svg)](https://github.com/neuralpain/qbactivator/releases/latest) |
+| [oneclickwinrar](https://github.com/neuralpain/oneclickwinrar) | [![oneclickwinrar](https://img.shields.io/github/downloads/neuralpain/oneclickwinrar/total.svg)](https://github.com/neuralpain/oneclickwinrar/releases/latest) |
 
 ![silent profile view counter](https://komarev.com/ghpvc/?username=neuralpain&abbreviated=true&style=pixel)
 
